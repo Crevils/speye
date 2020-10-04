@@ -1,0 +1,4 @@
+platform
+subprocess
+webbrowser
+colorama 
