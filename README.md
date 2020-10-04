@@ -21,7 +21,7 @@ python speye.pyc
 ### Tested On Windows | Not sure about linux and termux
 
 ### NOTE
-This tool is strongly for educational purpose. And don't waste your time on big accounts.
+This tool is strongly for educational purpose. And this is not much accurate
 
 <p align="center"><a href="https://github.com/crevils"><img title="Crevils" src="https://github-readme-stats.vercel.app/api?username=crevils&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
 </p>
