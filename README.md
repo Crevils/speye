@@ -4,6 +4,22 @@ speye is a advance doxing tool, supports on windows, termux and linux
 
 [![forthebadge Made-With-Python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
+## Usage 
+
+If You Don't want to install git then download this tool zip manually
+
+## Requirements
+[Python3 Or Above](https://www.python.org/downloads/)
+
+```bash
+pip install python
+git clone https://github.com/Crevils/speye 
+pip install -r requirements.txt
+cd speye
+python speye.pyc
+```
+### Tested On Windows | Not sure about linux and termux
+
 ### NOTE
 This tool is strongly for educational purpose. And don't waste your time on big accounts.
 
