@@ -7,12 +7,13 @@ speye is a advance doxing tool, supports on windows, termux and linux
 ### NOTE
 This tool is strongly for educational purpose. And don't waste your time on big accounts.
 
-<p align="center"><a href="https://github.com/noob-hackers"><img title="Bhavik tutorials" src="https://github-readme-stats.vercel.app/api?username=noob-hackers&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
+<p align="center"><a href="https://github.com/crevils"><img title="Crevils" src="https://github-readme-stats.vercel.app/api?username=crevils&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
 </p>
 
 bash
 
 
-[![forthebadge Youtube](https://forthebadge.com/images/badges/Crevil.svg)](https://www.youtube.com/channel/UCMxpylFB3Qv_uBRZfAAvF0g)
-[![forthebadge Telegram](https://forthebadge.com/images/badges/Hacker-exploits.svg)](https://t.me/hackerexploits)
-[![forthebadge Instagram](http://ForTheBadge.com/images/badges/Hackzec.svg)](https://www.instagram.com/hackzec)
+<a href="https://t.me/hackerExploits"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<a href="https://t.me/hacker_Chatroom"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://www.youtube.com/watch?v=7Z2dhGSUrT4"><img src="https://img.shields.io/badge/Video%20Tutorial-red.svg?logo=Youtube"></a>
+<a href="https://t.me/hackerExploits"><img src="https://img.shields.io/badge/Reprt%20Bugs-greeen.svg?logo=Bugs"></a>
