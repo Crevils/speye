@@ -13,6 +13,6 @@ This tool is strongly for educational purpose. And don't waste your time on big 
 bash
 
 
-[![forthebadge Youtube](https://forthebadge.com/images/badges/not-a-bug-a-feature.svg)](https://www.youtube.com/channel/UCMxpylFB3Qv_uBRZfAAvF0g)
-[![forthebadge Telegram](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://t.me/hackerexploits)
-[![forthebadge Instagram](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.instagram.com/hackzec)
+[![forthebadge Youtube](https://forthebadge.com/images/badges/Crevil.svg)](https://www.youtube.com/channel/UCMxpylFB3Qv_uBRZfAAvF0g)
+[![forthebadge Telegram](https://forthebadge.com/images/badges/Hacker-exploits.svg)](https://t.me/hackerexploits)
+[![forthebadge Instagram](http://ForTheBadge.com/images/badges/Hackzec.svg)](https://www.instagram.com/hackzec)
